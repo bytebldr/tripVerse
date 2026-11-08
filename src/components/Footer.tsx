@@ -16,7 +16,7 @@ export default function Footer() {
           </p>
           <div className="flex items-center gap-3 pt-2">
             <a
-              href="https://github.com/Suvesh108/tripVerse"
+              href="https://github.com/bytebldr/tripVerse"
               target="_blank"
               rel="noreferrer"
               className="p-2.5 rounded-xl bg-white/10 hover:bg-white/20 text-white transition-all flex items-center gap-2 text-xs font-bold"

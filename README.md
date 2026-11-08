@@ -106,7 +106,7 @@ tripVerse/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Suvesh108/tripVerse.git
+git clone https://github.com/bytebldr/tripVerse.git
 cd tripVerse
 ```
 
